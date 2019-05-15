@@ -1,0 +1,7 @@
+{
+    "require": {
+        "yooper/php-text-analysis": "^1.4"
+    },
+    "require-dev": {
+    }
+}
